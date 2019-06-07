@@ -6,3 +6,20 @@
     padding: 0;
     background: chartreuse;
 }
+
+h3 {
+    color: pink;
+}
+
+ul li {
+    justify-content: center;
+    color: cyan;
+    font-size: 1.618em;
+}
+
+footer {
+    margin: 2;
+    padding: 2;
+    color: purple;
+
+}
